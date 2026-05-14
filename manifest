@@ -1,0 +1,17 @@
+{
+  "name": "DRIP ARCHIVE",
+  "short_name": "DRIP",
+  "description": "Y2K & Surf style closet organizer with AI outfit builder",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5ede0",
+  "theme_color": "#5c3d2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%235c3d2e'/><text y='130' x='20' font-size='120' font-family='serif'>👕</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
